@@ -64,7 +64,7 @@ export default function Footer() {
               className="text-xl font-light text-white mb-1"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              Join the Aura Community
+              Join the OURA Community
             </h3>
             <p className="text-white/50 text-sm">
               Get exclusive deals, new arrivals & style inspiration.
@@ -98,7 +98,7 @@ export default function Footer() {
               className="text-3xl font-bold tracking-widest text-white mb-4 inline-block"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              AURA
+              OURA
             </a>
             <p className="text-white/50 text-sm leading-relaxed mb-6 max-w-xs">
               Premium menswear crafted for the modern gentleman. Elevating style with refined craftsmanship since 2020.
@@ -107,7 +107,7 @@ export default function Footer() {
             {/* Contact info */}
             <div className="flex flex-col gap-3 mb-8">
               {[
-                { icon: <Mail size={14} />, text: "hello@aurabrand.store" },
+                { icon: <Mail size={14} />, text: "hello@OURAbrand.store" },
                 { icon: <Phone size={14} />, text: "+880 1700-000000" },
                 { icon: <MapPin size={14} />, text: "Dhaka, Bangladesh" },
               ].map((item, i) => (
@@ -197,7 +197,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-white/30 text-xs tracking-wide text-center md:text-left">
-            © 2025 Aura. All rights reserved. Crafted with passion.
+            © 2025 OURA. All rights reserved. Crafted with passion.
           </p>
 
           {/* Payment icons */}

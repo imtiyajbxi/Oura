@@ -23,7 +23,7 @@ export default function PromoBanners() {
             className="max-w-2xl"
           >
             <p className="text-gray-600 text-xs tracking-[0.5em] uppercase mb-4 font-light">
-              www.aurabrand.store
+              www.OURAbrand.store
             </p>
             <h2
               className="text-4xl md:text-6xl lg:text-7xl font-light text-gray-900 leading-tight mb-2"

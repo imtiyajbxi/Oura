@@ -6,7 +6,7 @@ const announcements = [
   "✨ Free Shipping on Orders Over ৳2,000",
   "🎉 New Arrivals — Season 2025 Collection Is Here",
   "💳 Easy Returns Within 7 Days — No Questions Asked",
-  "🔥 Use Code AURA15 for 15% Off Your First Order",
+  "🔥 Use Code OURA15 for 15% Off Your First Order",
 ];
 
 export default function AnnouncementBar() {

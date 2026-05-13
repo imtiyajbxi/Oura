@@ -41,7 +41,7 @@ export default function Header() {
               className="text-2xl md:text-3xl font-bold tracking-widest text-black"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              AURA
+              OURA
             </a>
 
             {/* Desktop Nav */}
